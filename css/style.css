@@ -1,0 +1,76 @@
+
+/* counter 2 */
+.counters {
+    text-align: center;
+}
+
+.counters i {
+    color: lightskyblue;
+    margin-bottom: 5px;
+}
+
+.counters{
+    font-size: 45px;
+    margin: 10px 0;
+}
+.counter-3 {
+    font-size: 45px;
+    margin: 10px 0;
+}
+.container {
+    max-width: 1100px;
+    margin: 0 auto;
+    overflow: auto;
+}
+/* counter 2 */
+
+
+/* counter-4 */
+.tick {
+    padding-bottom: 1em;
+    font-size:1rem;
+}
+
+.tick-label {
+    font-size:.375em;
+    text-align:center;
+}
+
+.tick-group {
+    margin:0 .25em;
+    text-align:center;
+}
+/* counter-4 */
+/* wow-js */
+.box{
+    min-height: 400px;
+}
+/* wow-js */
+ /* mixit-up */
+.menu{
+    padding: 20px 0;
+  }
+  .menu a{
+    border-radius: 0;
+  }
+  .menu a:hover{
+    border: 1px solid #000000;
+  }
+  .img{
+    margin-top: 20px;
+  }
+  .img img{
+    width: 100%;
+    border-radius: 10px;
+  }
+ /* mixit-up */
+/* parralax */
+.parallax-window{
+    min-height: 400px;
+    background: transparent;
+}
+/* parralax */
+#particles{
+ 
+    height: 500px;
+}
